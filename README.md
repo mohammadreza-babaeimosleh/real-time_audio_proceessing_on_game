@@ -1,0 +1,1 @@
+## this projects contains set of codes that will process the raw audio data for dataset creation and build MLP and CCN models forreal-time voice recognition with 4 classes. at last we implemented this model on a simple game
